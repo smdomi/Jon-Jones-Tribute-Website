@@ -1,0 +1,55 @@
+body {
+    background-color: #DCDCDC;
+    margin: 55px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px 	#696969;
+    font-size: 7vh;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+}
+
+#caption {
+    text-align: center;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+div#tribute-data {
+    background-color: #A9A9A9;
+    box-shadow: 20px 20px 20px	#202020;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+    color: black;
+}
+
+h1.title-JJ {
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    text-shadow: 5px 5px 10px #202020;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
+
+#bottom-txt {
+    text-align: center;
+}
